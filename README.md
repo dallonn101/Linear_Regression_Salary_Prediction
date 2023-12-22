@@ -1,1 +1,1 @@
-# Linear_Regression_Salary_Prediction
+# A Simple linear regression model to predicts the relationship between years of work experience and salary earned from a given set of data
